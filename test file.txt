@@ -1,1 +1,5 @@
 This is a test file for GitHub Practical class with FavCode54 
+
+My name is Mr. Oscar
+
+Student at FavCode54
